@@ -1,0 +1,10 @@
+--- a/package.json	2023-10-05 09:50:58.363956909 +0200
++++ b/packageDiff.json	2023-10-06 09:38:30.782480215 +0200
+@@ -32,7 +32,6 @@
+     "node": ">=10"
+   },
+   "scripts": {
+-    "postinstall": "node lib/install.js",
+     "test": "xo && ava"
+   },
+   "files": [
